@@ -85,6 +85,7 @@ Go to **[Releases → latest](https://github.com/Rehanjamal-IT/it-helpdesk-lite/
 |---|---|
 | **`ITHelpDeskLite-Setup-x.x.x.exe`** ⭐ recommended | Normal installation with Start menu and desktop shortcuts. The installer can ask for the ticket e-mails. |
 | `ITHelpDeskLite-Portable-x.x.x.zip` | No installation. Unzip and double-click `IT Help Desk Lite.exe`. |
+| `ITHelpDeskLite-Android-x.x.x.apk` 📱 | **Android phones** (Android 7 or newer). Open the APK on the phone and allow *Install unknown apps* once. Same tabs: New ticket, My details, Settings, About. |
 
 **Requirements:** Windows 10 or 11. Nothing else is needed, because .NET Framework 4.8 is already part of Windows.
 
@@ -236,6 +237,6 @@ This app is free. If it helps you or your company:
 
 ## 📄 License
 Free to use in any company, school or organisation.
-**You may not remove the author's name, publish it under another name, or sell it.** Full terms are in [LICENSE](LICENSE).
+**You may not remove the author's name, publish it under another name, or sell it.** Full terms are in [LICENSE](LICENSE). Privacy: [PRIVACY_POLICY.md](PRIVACY_POLICY.md) – the apps collect no data.
 
 © 2026 Rehan Jamal
