@@ -1,0 +1,12 @@
+# build output
+build/
+.gradle/
+dist/
+tools/
+local.properties
+*.iml
+.idea/
+# signing key - NEVER upload these
+keystore.properties
+*.jks
+*.keystore
