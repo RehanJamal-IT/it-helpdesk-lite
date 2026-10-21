@@ -1,0 +1,45 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Signing key (upload key for Google Play). Created by BUILD_ANDROID.bat
+// and kept OUT of GitHub (see .gitignore).
+def keyProps = new Properties()
+def keyFile = rootProject.file('keystore.properties')
+if (keyFile.exists()) { keyFile.withInputStream { keyProps.load(it) } }
+
+android {
+    namespace 'com.rehanjamal.ithelpdesklite'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.rehanjamal.ithelpdesklite'
+        minSdk 24
+        targetSdk 36
+        versionCode 1
+        versionName '1.1.0'
+    }
+
+    signingConfigs {
+        release {
+            if (keyFile.exists()) {
+                storeFile rootProject.file(keyProps['storeFile'])
+                storePassword keyProps['storePassword']
+                keyAlias keyProps['keyAlias']
+                keyPassword keyProps['keyPassword']
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (keyFile.exists()) signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
