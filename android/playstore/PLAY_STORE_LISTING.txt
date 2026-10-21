@@ -1,0 +1,75 @@
+=====================================================================
+ GOOGLE PLAY CONSOLE - copy/paste text for IT Help Desk Lite
+=====================================================================
+
+APP NAME (max 30)
+IT Help Desk Lite
+
+SHORT DESCRIPTION (max 80)
+Free IT ticket app: report IT problems with photos in under a minute.
+
+FULL DESCRIPTION (max 4000)
+IT Help Desk Lite is a free IT ticket app for companies, schools and organisations. Employees report IT problems in under a minute, with photos, and the IT team receives a clean, structured ticket by e-mail.
+
+No server. No sign-up. No licence cost. No data collected.
+
+HOW IT WORKS
+1. Enter your details once (name, department, mobile, work e-mail, office).
+2. Choose what the problem is about and describe it.
+3. Add photos or screenshots if you like.
+4. Press "Send to IT". Your e-mail app (Gmail or Outlook) opens with a ready ticket. Just press Send.
+
+FEATURES
+• 12 problem types: computer, password, e-mail, Wi-Fi, printer, software, shared folders, Teams / Office 365, VPN, mobile, security and more
+• Attach photos, screenshots or PDF files
+• Your details are added to every ticket automatically
+• Phone model and Android version added automatically
+• Two support levels: tickets go to Level 1 with a copy to the IT Manager, or straight to Level 2 for urgent issues
+• Settings for IT: set the Level 1 / Level 2 e-mail addresses and company name
+• Optional Settings PIN so only IT can change where tickets go
+• Subject always starts with [IT-TICKET] so IT can filter tickets easily
+• Works with the free Windows version of IT Help Desk Lite
+
+PRIVACY
+The app has no internet permission and collects no data. Your details are stored only on your phone. Tickets are sent only by your own e-mail app, to the addresses your IT team sets.
+
+Made by Rehan Jamal, IT Manager with 16+ years in IT.
+Windows version and source: github.com/RehanJamal-IT/it-helpdesk-lite
+
+
+=====================================================================
+ SETTINGS IN PLAY CONSOLE
+=====================================================================
+App or game ............ App
+Free or paid ........... Free
+Category ............... Business   (or Productivity)
+Tags ................... Productivity, Business tools
+Contact e-mail ......... (your e-mail - required by Google, shown on the store page)
+Privacy policy URL ..... https://github.com/RehanJamal-IT/it-helpdesk-lite/blob/main/PRIVACY_POLICY.md
+
+App access ............. All functionality is available without special access
+Ads .................... No, my app does not contain ads
+Content rating ......... Questionnaire: category "Utility / Productivity / Communication / Other",
+                         answer NO to all violence / sexual / drugs / gambling questions
+                         -> result: Everyone / PEGI 3
+Target audience ........ 18 and over  (workplace app)
+News app ............... No
+Government app ......... No
+Financial features ..... No
+
+DATA SAFETY
+Does your app collect or share any of the required user data types? .... NO
+   (Reason: the app has no internet access. Details are stored only on the
+    device. Tickets are sent by the user's own e-mail app at the user's choice,
+    which Google does not count as collection by the app.)
+Is all user data encrypted in transit? .... (not applicable - no data transmitted by the app)
+Do you provide a way for users to request deletion? .... Uninstall / clear app storage
+
+
+=====================================================================
+ GRAPHICS (in the playstore folder)
+=====================================================================
+App icon 512x512 ............ icon-512.png
+Feature graphic 1024x500 .... feature-graphic-1024x500.png
+Phone screenshots ........... take 4 screenshots on your phone after installing the APK
+                              (New ticket, My details, Settings, About) - min 2, max 8
